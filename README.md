@@ -1,0 +1,2 @@
+# locap
+LoCap privacy policy
